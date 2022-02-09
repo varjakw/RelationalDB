@@ -13,3 +13,5 @@
 A company wishes to create a DB for managing its engineers and the projects they work on. We will make a relational structure for storing Employee ID, Employee Name, Project ID and Project Name.
 Suppose this company has a policy that no engineer can work on more than one project at a time, but a project can of course have multiple working on it.
 
+# Exercise
+See Exercise.sql
