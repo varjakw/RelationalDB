@@ -14,4 +14,6 @@ A company wishes to create a DB for managing its engineers and the projects they
 Suppose this company has a policy that no engineer can work on more than one project at a time, but a project can of course have multiple working on it.
 
 # Exercise
+![image](https://user-images.githubusercontent.com/78870995/153214508-f4f57b88-bab3-40f8-abf0-1b6975f40d82.png)
+
 See Exercise.sql
